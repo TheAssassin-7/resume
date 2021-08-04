@@ -1,75 +1,67 @@
 {
-    "basics": {
-        "name": "Akshat Barua",
-        "label": "Student",
-        "picture": "https://avatars.githubusercontent.com/u/82607021?s=400&u=82817f9e81d461fd1ea9340d38d327f0ec454a74&v=4",
-        "email": "2020kucp1049@iiitkota.ac.in",
-        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Keen interest in Web Development. Hence exploring the field as a beginner.",
-        "location": {
-            "address": "Agra",
-            "postalCode": "283114",
-            "city": "Agra",
-            "countryCode": " India",
-            "region": "Uttar Pradesh"
-        },
-        "profiles": [
-            {
-                "network": "Twitter",
-                "username": "AkshatBarua",
-                "url": "https://twitter.com/AkshatBarua"
-            },
-            {
-                "network": "Github",
-                "username": "TheAssassin-7",
-                "url": "https://github.com/TheAssassin-7"
-            },
-            {
-                "network": "linkedin",
-                "username": "Akshat Barua",
-                "url": "https://www.linkedin.com/in/akshat-barua-8a0934209/"
-            },
-            {
-                "network": "Instagram",
-                "username": "_akshat._7",
-                "url": "https://www.instagram.com/_akshat._7/"
-            }
-        ]
-    },
-    "education": [
-        {
-            "institution": "Indian Institute of Information Technology,Kota",
-            "area": "Engineering",
-            "studyType": "Bachelor (hons)",
-            "gpa": "8.27",
-            "courses": [
-                "Computer Science & Engineering"
-            ]
-        }
-    ],
-    "skills": [
-        {
-            "level": "Beginner",
-            "keywords": [
-                "HTML",
-                "CSS",
-                "C/C++"
-            ]
-        }
-    ],
-    "languages": [
-        {
-            "language": "English",
-            "fluency": "Native speaker"
-        }
-    ],
-    "interests": {
-        "name": "Sports",
-        "keywords": [
-            "Cricket",
-            "Football",
-            "Basketball",
-            "Badminton"
-        ]
-    },
-    "references": []
+	"basics": {
+		"name": "Akshat Barua",
+		"label": "Student",
+		"email": "2020kucp1049@iiitkota.ac.in",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Keen interest in Web Development. Hence exploring the field as a beginner.",
+		"location": {
+			"address": "Agra",
+			"postalCode": "283114",
+			"city": "Agra",
+			"countryCode": " India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "AkshatBarua",
+				"url": "https://twitter.com/AkshatBarua"
+			},
+			{
+				"network": "Github",
+				"username": "TheAssassin-7",
+				"url": "https://github.com/TheAssassin-7"
+			},
+			{
+				"network": "linkedin",
+				"username": "Akshat Barua",
+				"url": "https://www.linkedin.com/in/akshat-barua-8a0934209/"
+			},
+			{
+				"network": "Instagram",
+				"username": "_akshat._7",
+				"url": "https://www.instagram.com/_akshat._7/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"gpa": "8.27",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Beginner",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"C/C++"
+		]
+	}],
+	"languages": [{
+		"language": "English",
+		"fluency": "Native speaker"
+	}],
+	"interests": {
+		"name": "Sports",
+		"keywords": [
+			"Cricket",
+			"Football",
+			"Basketball",
+			"Badminton"
+		]
+	},
+	"references": []
 }
