@@ -63,7 +63,7 @@
             "fluency": "Native speaker"
         }
     ],
-    "interests": {
+    "interests": [{
         "name": "Sports",
         "keywords": [
             "Cricket",
@@ -71,6 +71,6 @@
             "Basketball",
             "Badminton"
         ]
-    },
+    }],
     "references": []
 }
