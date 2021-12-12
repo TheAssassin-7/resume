@@ -5,7 +5,7 @@
         "picture": "https://avatars.githubusercontent.com/u/82607021?s=400&u=82817f9e81d461fd1ea9340d38d327f0ec454a74&v=4",
         "email": "2020kucp1049@iiitkota.ac.in",
         "phone": "+918319727946",
-        "summary": "I'm a student of Indian Institute of Information technology, Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "summary": "I'm a student of Indian Institute of Information technology, Kota (India), persuing my B.tech in Computer Science & Engineering.",
         "location": {
             "address": "Agra",
             "postalCode": "283114",
@@ -38,9 +38,9 @@
     },
     "education": [
         {
-            "institution": "Indian Institute of Information Technology,Kota",
+            "institution": "Indian Institute of Information Technology, Kota",
             "area": "Engineering",
-            "studyType": "Bachelor (hons)",
+            "studyType": "Bachelor",
             "gpa": "8.00",
             "courses": [
                 "Computer Science & Engineering"
