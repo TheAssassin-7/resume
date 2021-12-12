@@ -41,7 +41,7 @@
             "institution": "Indian Institute of Information Technology,Kota",
             "area": "Engineering",
             "studyType": "Bachelor (hons)",
-            "gpa": "8.27",
+            "gpa": "8.00",
             "courses": [
                 "Computer Science & Engineering"
             ]
@@ -65,7 +65,8 @@
         "name": "Sports",
         "keywords": [
             "Cricket",
-            "Badminton"
+            "Badminton",
+            "Volleyball"
         ]
     }],
     "references": []
