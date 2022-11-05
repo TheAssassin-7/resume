@@ -64,8 +64,10 @@
     "interests": [{
         "name": "Sports",
         "keywords": [
-            "Cricket",
+            "Athletics",
             "Badminton",
+            "Cricket",
+            "Football",
             "Volleyball"
         ]
     }],
